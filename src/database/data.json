@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "title": "Paneer Tikka",
+    "description": "Spicy Indian appetizer made with grilled cubes of paneer, bell peppers, onions, yogurt, and aromatic spices."
+  },
+  {
+    "id": 2,
+    "title": "Masala Dosa",
+    "description": "Crispy South Indian rice and lentil crepe filled with spiced mashed potatoes and served with sambar and coconut chutney."
+  },
+  {
+    "id": 3,
+    "title": "Butter Chicken",
+    "description": "Creamy North Indian chicken curry cooked in a rich tomato, butter, cream, and aromatic spice sauce."
+  },
+  {
+    "id": 4,
+    "title": "Chole Bhature",
+    "description": "Popular North Indian meal consisting of spicy chickpea curry served with deep-fried fluffy bhatura bread."
+  },
+  {
+    "id": 5,
+    "title": "Rajma Chawal",
+    "description": "Comforting North Indian dish of red kidney beans simmered in tomato and spices, served with steamed rice."
+  },
+  {
+    "id": 6,
+    "title": "Palak Paneer",
+    "description": "Vegetarian Indian curry made with soft paneer cubes cooked in a creamy spinach puree with mild spices."
+  },
+  {
+    "id": 7,
+    "title": "Aloo Paratha",
+    "description": "Stuffed Indian flatbread filled with seasoned mashed potatoes, cooked on a griddle, and commonly served with yogurt or pickle."
+  },
+  {
+    "id": 8,
+    "title": "Dal Makhani",
+    "description": "Rich Punjabi lentil dish made with black lentils and kidney beans slowly cooked with butter, cream, tomatoes, and spices."
+  },
+  {
+    "id": 9,
+    "title": "Veg Biryani",
+    "description": "Fragrant basmati rice cooked with mixed vegetables, herbs, saffron, and aromatic Indian spices."
+  },
+  {
+    "id": 10,
+    "title": "Chicken Biryani",
+    "description": "Aromatic layered rice dish made with basmati rice, spiced chicken, fried onions, herbs, and traditional biryani spices."
+  },
+  {
+    "id": 11,
+    "title": "Pav Bhaji",
+    "description": "Mumbai street food made from mashed spiced vegetables served with buttery toasted pav bread and chopped onions."
+  },
+  {
+    "id": 12,
+    "title": "Vada Pav",
+    "description": "Mumbai-style spicy potato fritter placed inside a soft pav bun with garlic chutney and green chutney."
+  },
+  {
+    "id": 13,
+    "title": "Samosa",
+    "description": "Crispy triangular pastry filled with spiced potatoes and peas, commonly served with mint or tamarind chutney."
+  },
+  {
+    "id": 14,
+    "title": "Pani Puri",
+    "description": "Popular Indian street snack of crisp hollow puris filled with spiced potato, chickpeas, tangy tamarind water, and mint water."
+  },
+  {
+    "id": 15,
+    "title": "Dahi Puri",
+    "description": "Crispy puris topped with potatoes, yogurt, chutneys, spices, and crunchy sev for a sweet, tangy, and savory flavor."
+  },
+  {
+    "id": 16,
+    "title": "Bhel Puri",
+    "description": "Light Indian street snack combining puffed rice, vegetables, peanuts, sev, and sweet-tangy chutneys."
+  },
+  {
+    "id": 17,
+    "title": "Paniyaram",
+    "description": "South Indian savory snack made from fermented rice and lentil batter, cooked into small soft and crisp dumplings."
+  },
+  {
+    "id": 18,
+    "title": "Idli Sambar",
+    "description": "Soft steamed South Indian rice cakes served with lentil-based vegetable sambar and coconut chutney."
+  },
+  {
+    "id": 19,
+    "title": "Medu Vada",
+    "description": "Crispy South Indian savory fritter made from urad dal, shaped like a doughnut, and served with sambar and chutney."
+  },
+  {
+    "id": 20,
+    "title": "Uttapam",
+    "description": "Thick South Indian savory pancake made from fermented rice and lentil batter and topped with vegetables."
+  },
+  {
+    "id": 21,
+    "title": "Poha",
+    "description": "Light Indian breakfast made from flattened rice cooked with onions, potatoes, peanuts, turmeric, and mild spices."
+  },
+  {
+    "id": 22,
+    "title": "Upma",
+    "description": "South Indian breakfast dish made from semolina cooked with vegetables, spices, and tempered with mustard seeds and curry leaves."
+  }
+]
